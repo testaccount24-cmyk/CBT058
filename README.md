@@ -9,5 +9,4 @@ This is still a work in progress. GitHub repos will be deleted and created durin
 //*           COMMAND PROCESSOR SHOWS THE SYSTEM ID AND THE         *   FILE 058
 //*           LINKLIST FOR THE RUNNING SYSTEM                       *   FILE 058
 //*                                                                 *   FILE 058
-
 ```
